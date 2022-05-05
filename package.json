@@ -1,8 +1,30 @@
 {
-  "dependencies": {
-    "@discordjs/builders": "^0.13.0",
-    "@discordjs/rest": "^0.4.1",
-    "discord-api-types": "^0.32.0",
-    "discord.js": "^13.6.0"
-  }
+    "name": "tragicomico-daily",
+    "version": "1.0.0",
+    "description": "Bot for posting daily news and events",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "prettier --write \"./**/*.{js,json}\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Virgulas/tragicomico-daily.git"
+    },
+    "author": "Virgulas <bruno.a.wep@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Virgulas/tragicomico-daily/issues"
+    },
+    "homepage": "https://github.com/Virgulas/tragicomico-daily#readme",
+    "dependencies": {
+        "@discordjs/builders": "^0.13.0",
+        "@discordjs/rest": "^0.4.1",
+        "discord-api-types": "^0.32.0",
+        "discord.js": "^13.6.0"
+    },
+    "devDependencies": {
+        "prettier": "2.6.2"
+    }
 }
