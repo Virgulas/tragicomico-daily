@@ -1,0 +1,10 @@
+{
+  "users": {
+    "123214": {
+      "id": "1234567889",
+      "name": "Pikachu123",
+      "img": "img.link",
+      "badWords": { "coco": 0, "cocozinho": 0 }
+    }
+  }
+}

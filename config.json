@@ -1,1 +1,7 @@
-{}
+{
+  "roleIds": [""],
+  "channelIds": [""],
+  "clientId": "",
+  "guildId": "",
+  "token": ""
+}
